@@ -3,9 +3,9 @@
     
         "post0": {
             "title": "",
-            "content": "&#39;3/30/20&#39; . Gr&#225;ficos . Video Deaths .",
-            "url": "https://vascomano.github.io/Covid19/2020/03/31/2020-03-31-Covid19.html",
-            "relUrl": "/2020/03/31/2020-03-31-Covid19.html",
+            "content": "This is just a test... .",
+            "url": "https://vascomano.github.io/Covid19/2020/03/31/2020-03-30-teste.html",
+            "relUrl": "/2020/03/31/2020-03-30-teste.html",
             "date": " • Mar 31, 2020"
         }
         
@@ -13,10 +13,10 @@
   
     
         ,"post1": {
-            "title": "",
-            "content": "This is just a test... .",
-            "url": "https://vascomano.github.io/Covid19/2020/03/31/2020-03-30-teste.html",
-            "relUrl": "/2020/03/31/2020-03-30-teste.html",
+            "title": "Covid Evolution",
+            "content": "&#39;3/30/20&#39; . Gr&#225;ficos . Video Deaths .",
+            "url": "https://vascomano.github.io/Covid19/jupyter/2020/03/31/Covid19.html",
+            "relUrl": "/jupyter/2020/03/31/Covid19.html",
             "date": " • Mar 31, 2020"
         }
         
