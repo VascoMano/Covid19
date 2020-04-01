@@ -2,8 +2,8 @@
   
     
         "post0": {
-            "title": "Covid Evolution",
-            "content": "31/03/20 . Gr&#225;ficos . Numbers per .",
+            "title": "Evolution of COVID-19",
+            "content": "Last update: . 31/03/20 . Number of confirmed cases and deaths worldwide . [&lt;matplotlib.lines.Line2D at 0x7f66554cc908&gt;] . [&lt;matplotlib.axis.XTick at 0x7f66554f5eb8&gt;, &lt;matplotlib.axis.XTick at 0x7f66554f5ba8&gt;, &lt;matplotlib.axis.XTick at 0x7f665559a828&gt;, &lt;matplotlib.axis.XTick at 0x7f66554d7898&gt;, &lt;matplotlib.axis.XTick at 0x7f66554d7be0&gt;, &lt;matplotlib.axis.XTick at 0x7f66554d76d8&gt;, &lt;matplotlib.axis.XTick at 0x7f66554e4550&gt;, &lt;matplotlib.axis.XTick at 0x7f66554d7978&gt;] . [&lt;matplotlib.lines.Line2D at 0x7f66554e44e0&gt;] . [&lt;matplotlib.axis.XTick at 0x7f6655528240&gt;, &lt;matplotlib.axis.XTick at 0x7f6655528208&gt;, &lt;matplotlib.axis.XTick at 0x7f6655522b00&gt;, &lt;matplotlib.axis.XTick at 0x7f6655476b00&gt;, &lt;matplotlib.axis.XTick at 0x7f6655476f60&gt;, &lt;matplotlib.axis.XTick at 0x7f6655476a20&gt;, &lt;matplotlib.axis.XTick at 0x7f6655479048&gt;, &lt;matplotlib.axis.XTick at 0x7f66554799b0&gt;] . Selected Countries . Number of confirmed cases and deaths . Number of confirmed cases and deaths per 100 000 population . Number of confirmed cases and deaths - Log scale . Number of confirmed cases and deaths per 100 000 population - Log scale .",
             "url": "https://vascomano.github.io/Covid19/jupyter/2020/04/01/Covid19.html",
             "relUrl": "/jupyter/2020/04/01/Covid19.html",
             "date": " • Apr 1, 2020"
