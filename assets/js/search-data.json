@@ -3,6 +3,17 @@
     
         "post0": {
             "title": "Evolution of COVID-19",
+            "content": "&#39;&#39;&#39; #Create a dataframe of Towards Data Science Articles tds = df[df[&#39;publication&#39;] == &#39;Towards Data Science&#39;]. set_index(&#39;published_date&#39;) # Plot read time as a time series tds[[&#39;claps&#39;, &#39;fans&#39;, &#39;title&#39;]].iplot( y=&#39;claps&#39;, mode=&#39;lines+markers&#39;, secondary_y = &#39;fans&#39;, secondary_y_title=&#39;Fans&#39;, xTitle=&#39;Date&#39;, yTitle=&#39;Claps&#39;, text=&#39;title&#39;, title=&#39;Fans and Claps over Time&#39;) . File &#34;&lt;ipython-input-1-e66136f961de&gt;&#34;, line 9 text=&#39;title&#39;, title=&#39;Fans and Claps over Time&#39;) ^ SyntaxError: EOF while scanning triple-quoted string literal . Last update: . Number of confirmed cases and deaths worldwide . Selected Countries . Number of confirmed cases and deaths . Number of confirmed cases and deaths per 100 000 population . Number of confirmed cases and deaths - Log scale . Number of confirmed cases and deaths per 100 000 population - Log scale .",
+            "url": "https://vascomano.github.io/Covid19/jupyter/2020/04/02/Covid19.html",
+            "relUrl": "/jupyter/2020/04/02/Covid19.html",
+            "date": " • Apr 2, 2020"
+        }
+        
+    
+  
+    
+        ,"post1": {
+            "title": "Evolution of COVID-19",
             "content": "Last update: . 31/03/20 . Number of confirmed cases and deaths worldwide . Selected Countries . Number of confirmed cases and deaths . Number of confirmed cases and deaths per 100 000 population . Number of confirmed cases and deaths - Log scale . Number of confirmed cases and deaths per 100 000 population - Log scale .",
             "url": "https://vascomano.github.io/Covid19/jupyter/2020/04/01/Covid19.html",
             "relUrl": "/jupyter/2020/04/01/Covid19.html",
